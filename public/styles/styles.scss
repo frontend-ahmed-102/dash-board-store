@@ -5,6 +5,9 @@
 @use "config/colors.scss";
 
 
+@use "utilites/spacing.scss";
+@use "utilites/mixin-card.scss";
+
 
 
 
@@ -12,3 +15,12 @@
 @use "base/global.scss";
 @use "base/typography.scss";
 @use "base/links.scss";
+@use "components/components";
+@use "components/demo.scss";
+
+
+@use "pages/index.scss";
+@use "hacks/add-product.scss";
+
+
+
